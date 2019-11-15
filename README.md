@@ -1,2 +1,0 @@
-# PromisesJs
-Created with CodeSandbox
